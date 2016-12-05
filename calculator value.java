@@ -2,7 +2,7 @@ package inexactUnitCalculator;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
-
+                                                        
 /**
  * <p>
  * Title: CalculatorValue Class - A component of the Inexact Calculator Program
