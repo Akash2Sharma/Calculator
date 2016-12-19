@@ -32,7 +32,7 @@ import java.util.Scanner;
  *
  * @author Akash Sharma
  * @version 2.00
- */
+ */ 
 public class InexactUnitCalculator extends JFrame {
 	/**
 	 * 
