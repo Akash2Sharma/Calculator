@@ -33,8 +33,8 @@ import java.util.Scanner;
  * @author Akash Sharma
  * @version 2.00
  */ 
-public class InexactUnitCalculator extends JFrame {
-	/**
+public class InexactUnitCalculator extends JFrame { 	
+/**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
