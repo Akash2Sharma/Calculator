@@ -16,8 +16,7 @@ import java.awt.Rectangle;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.Scanner;
-
+import java.util.Scanner; 
 /**
  * <p>
  * Title: InexactCalculator Class - A component of the Inexact Calculator Program
