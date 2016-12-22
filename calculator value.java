@@ -30,8 +30,8 @@ public class CalculatorValue {
 	private static final char DOTOP = '\u00B7';		// Dot Operator
 
 	private static final String[] resultUnitNames = 
-	    //0	
-		{" ", 
+	    //0			
+{" ", 
 		
 	    //1       2     3         4            5            6             7            8 	       9       
 		"mm",  "cm",  "m",  "mm"+POWER2,  "cm"+POWER2,  "m"+POWER2,  "mm"+POWER3, "cm"+POWER3, "m"+POWER3, 
