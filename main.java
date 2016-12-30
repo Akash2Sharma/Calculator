@@ -27,7 +27,7 @@ public class InexactUnitCalculatorMain {
     	SwingUtilities.invokeLater(new Runnable() { public void run() { new InexactUnitCalculator(); } });
     }
     
-    /**
+    /** 
      * The "invokeLater" method is being passed an object that must contain a method named "run" with no 
      * parameters.  When the Swing execution thread has finished loading all of the objects it needs to 
      * run properly. (Using Swing components and creating graphical interfaces (GUI) will be discussed 
