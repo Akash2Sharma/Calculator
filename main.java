@@ -49,7 +49,7 @@ public class InexactUnitCalculatorMain {
      * is done, all of the GUI elements have been defined and positioned in the application's window and 
      * all of the buttons have been linked to methods.  
      * 
-     * The final act is to make the window visible.  Now the application waits for the user to do something: 
+      * The final act is to make the window visible.  Now the application waits for the user to do something: 
      * add text to a text field or push a button.  Either of those actions directs the execution to a method 
      * within the IntergerCalculator class and the code for that method determines what actions will be 
      * performed. This applications does not have a Quit button or a quit menu item, so the only way to quit 
