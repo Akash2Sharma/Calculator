@@ -44,7 +44,7 @@ public class InexactUnitCalculatorMain {
      * The "new IntegerCalculator()" command causes a new IntegerCalculator object to be created.  When it 
      * is created, the standard instantiation process is followed that initializes all of the class 
      * attributes and runs the constructor for the class (in this case, the default constructor, as there 
-     * are no parameters listed).   The initialization of the class attributes sets up all of the GUI 
+     * are no parameters listed).   The initialization of  the class attributes sets up all of the GUI 
      * elements and the execution of the constructor completes the process.  By the time the constructor 
      * is done, all of the GUI elements have been defined and positioned in the application's window and 
      * all of the buttons have been linked to methods.  
