@@ -538,8 +538,8 @@ public class InexactUnitCalculator extends JFrame {
 	}
 
 	/**********
-	 * This is the multiply routine
-	 * 
+	 * This is the multiply routine	
+ * 
 	 * @param ae	This routine ignores the ae parameter
 	 */
 	private void mpyOperands(ActionEvent ae){
