@@ -3,8 +3,7 @@ package inexactUnitCalculatorMain;
 
 import inexactUnitCalculator.InexactUnitCalculator;
 
-import javax.swing.SwingUtilities;
-
+import javax.swing.SwingUtilities; 
 /**
  * <p>
  * Title: InexactCalculatorMain Class - A component of the Inexact Calculator Program
