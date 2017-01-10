@@ -1,4 +1,5 @@
-  package inexactUnitCalculatorMain;
+
+package inexactUnitCalculatorMain;
 
 import inexactUnitCalculator.InexactUnitCalculator;
 
