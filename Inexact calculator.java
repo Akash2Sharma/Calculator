@@ -441,7 +441,7 @@ public class InexactUnitCalculator extends JFrame {
 	/**********
 	 * This routine checks the first operand error and returns it.  If the value is invalid, a value of 
 	 *  zero is returned, but more importantly, a red error message is displayed next to the text field.
-	 * If the value is valid, it returns the actual value.
+	 * If  the value is valid, it returns the actual value.
 	 */
 	private double convertOperand2Err() {
 		
