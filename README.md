@@ -1,7 +1,5 @@
 
-
-
-
+ 
 # Calculator
 Its a very simple calculator,coded in JAVA Language.
 
