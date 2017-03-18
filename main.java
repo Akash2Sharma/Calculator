@@ -1,7 +1,6 @@
                                                  
 package inexactUnitCalculatorMain; 
-import inexactUnitCalculator.InexactUnitCalculator;
-
+import inexactUnitCalculator.InexactUnitCalculator; 
 import javax.swing.SwingUtilities; 
 /**
  * <p>
