@@ -1,5 +1,5 @@
                               
-package inexactUnitCalculator;  
+package inexactUnitCalculator;   
 import java.text.DecimalFormat; 
 import java.text.NumberFormat;
                                                          
